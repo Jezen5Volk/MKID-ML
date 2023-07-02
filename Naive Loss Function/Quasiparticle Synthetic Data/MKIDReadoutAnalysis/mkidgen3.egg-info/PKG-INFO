@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: mkidgen3
+Version: 0.1
+Summary: An UVOIR MKID Detector package for the ZCU111
+Home-page: https://github.com/MazinLab/MKIDGen3
+Author: MazinLab, J. Bailey et al.
+Author-email: mazinlab@ucsb.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Description-Content-Type: text/markdown
+
+# MKIDReadout_Analysis
+Code which generates fake MKID data to assess how readout factors influence energy resolution

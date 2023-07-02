@@ -1,0 +1,6 @@
+README.md
+setup.py
+mkidgen3.egg-info/PKG-INFO
+mkidgen3.egg-info/SOURCES.txt
+mkidgen3.egg-info/dependency_links.txt
+mkidgen3.egg-info/top_level.txt
