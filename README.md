@@ -11,7 +11,7 @@ A little characterization and much evaluation code later, I had results! Though 
 
 Picture Gallery: 
 
-<img width="436" alt="predicted photon" src="https://github.com/Jezen5Volk/MKID-ML/assets/138075884/fca7c93a-36af-4a23-994f-74cb1aebbfd9">
-<img width="426" alt="histogram of predicted photons with fit" src="https://github.com/Jezen5Volk/MKID-ML/assets/138075884/3bd429e3-e63d-43a8-a514-de0271c3dff3">
-<img width="432" alt="quasiparticle predicted pdfs" src="https://github.com/Jezen5Volk/MKID-ML/assets/138075884/17ec2ce2-5560-4ea7-98df-543f603eaf52">
+<img width="400" alt="Predicted Photon" src="https://github.com/Jezen5Volk/MKID-ML/assets/138075884/e1af8d34-6998-4fad-8cdc-d70091ca33fe">
+<img width="800" alt="histogram of predicted photons with fit" src="https://github.com/Jezen5Volk/MKID-ML/assets/138075884/3bd429e3-e63d-43a8-a514-de0271c3dff3">
+<img width="800" alt="quasiparticle predicted pdfs" src="https://github.com/Jezen5Volk/MKID-ML/assets/138075884/17ec2ce2-5560-4ea7-98df-543f603eaf52">
 
